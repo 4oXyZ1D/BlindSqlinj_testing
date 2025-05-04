@@ -1,5 +1,5 @@
 # BlindSqlinj_testing
-The tool for testing blind SqlInj in Labs
+The tool for testing blind SqlInj in Codeby Labs
 Can exfiltrate db_name, table, columns, and dump whole table 
 
 usage: sqlinj_blind_test.py [-h] -r REQUEST -i INDICATOR [--database] [--tables DB_NAME] [--columns TABLE_NAME] [--dump-table TABLE_NAME] [--db-name DB_NAME] [--delay DELAY] [--proxy PROXY] [--non-interactive] [-o OUTPUT] [--simple-names]
